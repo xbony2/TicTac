@@ -1,4 +1,4 @@
-object TicTac {
+class TicTac {
 
   //I don't really know what I'm doing
   def main(){

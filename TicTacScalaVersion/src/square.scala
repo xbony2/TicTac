@@ -1,4 +1,4 @@
-object square {
+class square {
 
   /** 
 	 * 0 represents white

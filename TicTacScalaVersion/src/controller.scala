@@ -1,3 +1,3 @@
-object controller {
+class controller {
 
 }
