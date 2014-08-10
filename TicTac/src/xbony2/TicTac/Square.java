@@ -1,4 +1,5 @@
-public class square {
+package xbony2.TicTac;
+public class Square {
 
 	/** 
 	 * 0 represents white
@@ -6,14 +7,14 @@ public class square {
 	 * 2 represents blue
 	 * 
 	 * */
-	private int color;
+	private static int color;
 	
 	/** 
 	 * Returns the color as an integer
 	 * 
 	 * @author xbony2
 	 * */
-	public int getColor(){
+	protected static int getColor(){
 		return color;
 	}
 	
